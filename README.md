@@ -1,6 +1,6 @@
 # TDA Lab de Mónica Sánchez Díaz
 
-2ºbach A · Curso 2026-2027**
+2ºbach A · Curso 2026-2027
 
 Aquí voy a dejar todo lo que haga en TDA este curso
 ---
