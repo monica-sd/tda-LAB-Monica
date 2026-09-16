@@ -1,16 +1,10 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
-
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
-
-```
-### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+### 13/10 · MIS AFICIONES
+Desde pequeña me gusta jugar al baloncesto, empecé a jugar con 3 años y aun sigo haciendolo.
+No solo me gusta hacerlo, tambien me encanta poder ir a ver partidos al pabellon o verlos por
+la tele si no pudiera. Entreno 3 o 4 veces porsemana y juego dos partidos los findes.
+Además, también me gusta pasar tiempo con mi hermano pequeño y pero sobre todo me gusta viajar
+y poder conocer todo el mundo.- Actualmente conozco prácticamente todas las comunidades de España y 
+otros 6 países, aunque espero conocer muchísimos más.
