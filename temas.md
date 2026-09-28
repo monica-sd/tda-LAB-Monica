@@ -19,4 +19,4 @@ La he escogido ya que es un ejemplo de superación personal y de que se debe luc
 https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/585ae2c3-30ad-48ea-8dc4-a227e016c4ff" />
-
+Imagen: Josh Valcarcel (https://commons.wikimedia.org/w/index.php?search=christina+koch&title=Special%3AMediaSearch&type=image)
