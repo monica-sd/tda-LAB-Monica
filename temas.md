@@ -11,12 +11,12 @@ otros 6 países, aunque espero conocer muchísimos más.
 
 (https://github.com/LuisGomez02/Baloncesto)
 
-<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/cf1e0f00-13f8-4ef5-af57-4572cf69f1de" />
+![](capturas/bronce.avif)
 
 ### 28/09 ·  Premios Princesa de Asturias: CHRISTINA KOCH
 Crhistina Koch es una estadounidense que va a recibir el Premio Princesa de Asturias de la concordia, ya que con su esfuerzo y sus ganas de conseguir lo que se propone, ha ayudado a aumentar las fronteras de la humanidad.
 La he escogido ya que es un ejemplo de superación personal y de que se debe luchar por lo que quieres hasta conseguirlo.
 (https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/)
 
-![](capturas/premios princesa.jpg.png)
+![](capturas/premios princesa.jpg) 
 Imagen: Josh Valcarcel (https://commons.wikimedia.org/w/index.php?search=christina+koch&title=Special%3AMediaSearch&type=image)
