@@ -18,5 +18,6 @@ Crhistina Koch es una estadounidense que va a recibir el Premio Princesa de Astu
 La he escogido ya que es un ejemplo de superación personal y de que se debe luchar por lo que quieres hasta conseguirlo.
 (https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/)
 
-![](capturas/premios princesa.jpg) 
+![](capturas/premiosprincesa.jpg)  
+
 Imagen: Josh Valcarcel (https://commons.wikimedia.org/w/index.php?search=christina+koch&title=Special%3AMediaSearch&type=image)
