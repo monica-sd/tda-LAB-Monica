@@ -23,12 +23,11 @@ La he escogido ya que es un ejemplo de superación personal y de que se debe luc
 Imagen: Josh Valcarcel (https://commons.wikimedia.org/w/index.php?search=christina+koch&title=Special%3AMediaSearch&type=image)
 
 ### 14/10 · Ada Lovelace
-
 Ada Lovelace fue una matemática británica la cual fue considerada la primera programadora de la historia. Tuvo una educación científica estricta y su mayor logro fue colaborar con Charles Babbage en el desarrollo de la Máquina Analítica. Al traducir un artículo sobre este invento, Lovelace añadió sus propias notas y creo un algoritmo para calcular los números de Bernoulli. También supo que estas máquinas servirían en el futuro para procesar algunas cosas más allá del cálculo matemático. El Día de Ada Lovelace se celebra todos los segundos martes de octubre para visibilizar y conmemorar los logros de las mujeres en las ramas STEM. [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![](capturas/ada){: width="300"}
 
- Imagen: Alfred Edward Chalon, [enlace a wikipedia commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image))
+ *Imagen: Alfred Edward Chalon, [enlace a wikipedia commons]([DIRECCIÓN DE LA PÁGINA DE LA IMAGEN](https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image)*
 
 
 
